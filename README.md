@@ -13,9 +13,9 @@ Tested distribution: Ubuntu 22.04
 
 Use the dochat.sh to run the docker.
 ```
-curl -sL https://github.com/Falltrades/wechat/blob/main/dochat.sh | bash
+curl -sL https://raw.githubusercontent.com/Falltrades/wechat/main/dochat.sh?token=GHSAT0AAAAAAB6BYI45KSXA2AVDFIUX5GUMY66DUZQ | bash
 ```
 Use the copywechat.sh if you need to send images in wechat since the drag and drop is not possible.
 ```
-curl -sL https://github.com/Falltrades/wechat/blob/main/copywechat.sh | bash
+curl -sL https://raw.githubusercontent.com/Falltrades/wechat/main/copywechat.sh?token=GHSAT0AAAAAAB6BYI45GTNFBJFXKFW2LPWIY66DWZA | bash 
 ```
